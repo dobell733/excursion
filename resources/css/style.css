@@ -1,0 +1,32 @@
+.mainHeading {
+    font-weight: Normal;
+    font-size: 50px;
+    color: white;
+}
+
+.subHeading {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+body {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.info {
+    font-size: 21px;
+    color: gray;
+}
+
+.copyright {
+    text-align: right;
+    color: gray;
+}
